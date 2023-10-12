@@ -10,8 +10,8 @@ To integrate the URL Shortener Microservice into your project, follow these simp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/MTalha20/express-url_shortner.git
+   cd express-url_shortner
 2. npm install
 3. npm start
 

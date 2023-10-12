@@ -4,7 +4,7 @@ The URL Shortener Microservice is a tool that shortens long URLs and provides a 
 
 - **Shortening URLs:** Generate a short URL from a given long URL.
 - **Redirecting Users:** Access the short URL to redirect users back to the original URL.
-- **Access** shorten url's using https://<baseurl>/<shorten-url-property> // POST request
+- **Access** shorten url's using https://baseurl/shortenurlproperty // POST request
 
 To integrate the URL Shortener Microservice into your project, follow these simple steps:
 
